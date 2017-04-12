@@ -1,7 +1,21 @@
 #memory_board {
+  width:800px;
+  margin: auto;
+  margin-top: 100px;
+}
 
+.inactive-pic {
+  background-image: none;
+  background-color: #456783;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
 }
 .pic {
+
   background-color: #456783;
 	width:71px;
 	height:71px;
